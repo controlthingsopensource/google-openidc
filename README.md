@@ -20,3 +20,5 @@ Simply execute:
 ```
 python3 google-openidc.py
 ```
+# More information
+You can read [my blog post](https://respected-professor.blogspot.com/2023/04/authenticate-users-in-python-scripts.html). Open an issue if you need support.
